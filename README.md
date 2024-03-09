@@ -1,5 +1,6 @@
-# Archive Movies Blotch Detection
+# Archive Movies Blotch Detection (DNN)
 
+This is the **DNN version** of the Blotch Detection Project.
 Deep learning techniques to improve the quality of old recorded video footage by detecting and removing dirt and other degradations. 
 
 ## Introduction
