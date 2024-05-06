@@ -19,8 +19,6 @@ function [prevFrame, currFrame, nextFrame] = loadYFile(filename, width, height, 
     fclose(fid);
 end
 
-
-
 % —————————————————————————————————————————————————————————————————————————
 % fseek EXPLNATION
 % fseek(fp, offset, origin)
