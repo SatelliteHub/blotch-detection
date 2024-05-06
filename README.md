@@ -1,7 +1,5 @@
 # Archive Movies Blotch Detection
 
-**On-going Project** 
-
 Improve the quality of old recorded video footage by detecting and removing dirt. 
 
 ## Introduction
